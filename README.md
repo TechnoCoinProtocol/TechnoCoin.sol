@@ -1,0 +1,1 @@
+# TechnoCoin.sol
